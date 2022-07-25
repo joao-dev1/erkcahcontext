@@ -1,0 +1,14 @@
+{
+  "name": "js",
+  "lockfileVersion": 2,
+  "requires": true,
+  "packages": {},
+  "type": "module",
+  "dependencies": {
+    "dayjs": "^1.11.4",
+    "fetch": "^1.1.0",
+    "google": "^2.1.0",
+    "google-it": "^1.6.3",
+    "googleapis": "^105.0.0"
+  }
+}
